@@ -1,0 +1,11 @@
+- camera
+gentle roll off circle colliders
+circle colliders phase through - example: player walk through top part of circle, sometimes by pressing up.
+same with line colliders on inside angles somehow
+refactor line / circle classes to have one parent class
+- player acceleration
+background image support
+actually making a good world
+cull far away objects
+smooth firing sounds (regular intervals)
+velocity 0 after collision
